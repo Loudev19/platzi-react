@@ -1,4 +1,7 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+# Repository for React.js introduction course
+
+In the Platzi introduction course were developed a To-Do App, the result of it can be seen in the next link
+[My To-Do app](https://loudev19.github.io/platzi-react/)
 
 ## Getting Started with Create React App
 
