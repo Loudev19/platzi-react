@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/platzi-react/static/css/main.942b3f5c.css",
+    "main.js": "/platzi-react/static/js/main.c0bc8e98.js",
+    "index.html": "/platzi-react/index.html",
+    "main.942b3f5c.css.map": "/platzi-react/static/css/main.942b3f5c.css.map",
+    "main.c0bc8e98.js.map": "/platzi-react/static/js/main.c0bc8e98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.942b3f5c.css",
+    "static/js/main.c0bc8e98.js"
+  ]
+}
