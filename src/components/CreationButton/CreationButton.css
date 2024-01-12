@@ -1,0 +1,19 @@
+.floating-button {
+    background-color: #2D9596;
+    color: whitesmoke;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.1);
+    border-radius: 50px;
+    max-height: 40px;
+    padding: 8px;
+    font-size: 22px;
+    border: 0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+  }
+  
+  .add-button {
+    background: #2D9596;
+    width: 94%;
+    text-align: center;
+  }

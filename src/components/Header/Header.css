@@ -1,0 +1,17 @@
+.header {
+  font-size: xx-large;
+  color: #2D9596;
+  font-weight: 700;
+  margin-bottom: 0px !important;
+}
+
+.counter {
+  color: #2D9596;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 0px !important;
+}
+
+.counter>span {
+  color: #9AD0C2;
+}

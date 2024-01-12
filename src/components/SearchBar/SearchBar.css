@@ -1,0 +1,22 @@
+.search {
+    border-radius: 50px;
+    max-height: 40px;
+    padding: 10px;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 80%;
+    background: transparent;
+    border-color: #2D9596;
+    color: #ECF4D6 !important;
+  }
+  
+  .search:active {
+    border-color: whitesmoke;
+    color: whitesmoke;
+  }
+  
+  .search::placeholder {
+    color: whitesmoke;
+    opacity: 0.5;
+  }
